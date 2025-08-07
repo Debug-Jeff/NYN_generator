@@ -6,7 +6,7 @@
    "NOT YET" text scattered randomly across pages. Perfect for when you need      
   placeholder content that screams organized procrastination.
 
-  ## What Does It Do? 🤔
+  ## What Does It Do? 
 
   Creates beautiful chaos by:
   - Randomly scattering "NOT YET" text across PDF pages
@@ -14,7 +14,7 @@
   - Generating both dense chaos and centered poster styles
   - Making procrastination look artistic
 
-  ## Features ✨
+  ## Features 
 
   - **Chaotic Mode**: 1000 randomly placed text elements
   - **Poster Mode**: Clean center text with subtle background chaos
@@ -22,17 +22,19 @@
   - **Color Variety**: Mostly black with occasional red highlights
   - **Artistic Opacity**: Varying transparency for depth
 
-  ## Installation 🚀
+  ## Installation 
 
   ```bash
   pip install reportlab
 
-  Usage 💫
+  Usage 
 
-  python main.py        # Creates NOT_YET_NUCLEAR.pdf
-  python not_yet.py     # Creates NOT_YET_POSTER.pdf
+  python main.py        
+  python not_yet.py     
 
-  Why "NOT YET"? 🤷‍♀️
+    ```
+
+  Why "NOT YET"? 🤷
 
   Sometimes you need a document that perfectly captures the essence of "I'll      
   get to it later" while looking surprisingly sophisticated.
