@@ -12,7 +12,7 @@ def generate_not_yet_pdf():
     words = ["NOT YET", "not yet", "nOt YeT", "NOt YEt", "NOT yet"]
     fonts = ["Helvetica", "Courier", "Times-Roman", "Helvetica-BoldOblique", "ZapfDingbats"]
     
-    for _ in range(1000):  # 1000 iterations for density
+    for _ in range(1000): 
         x, y = random.randint(0, int(width)), random.randint(0, int(height))
         size = random.randint(6, 72)
         angle = random.randint(0, 359)

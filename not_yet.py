@@ -12,9 +12,8 @@ def generate_poster():
     main_text = "NOT YET"  
     c.setFont("Impact", 72)  
     c.setFillColor(black)  
-    c.drawCentredString(width/2, height/2, main_text)  # Central focus  
+    c.drawCentredString(width/2, height/2, main_text) 
 
-    # Radiating smaller text  
     fonts = ["Times-Roman", "Courier", "Helvetica-Oblique"]  
     for i in range(200):  
         x = width/2 + random.randint(-300, 300)  
