@@ -1,4 +1,4 @@
-# NOT YET PDF Generator 🎨
+# NOT YET PDF Generator 
 
   > *Have you ever thought of having a document template for fun with filler words?*
 
@@ -34,11 +34,11 @@
 
 ```
 
-  ## Why "NOT YET"? 🤷
+  ## Why "NOT YET"? 
 
   Sometimes you need a document that perfectly captures the essence of "I'll      
   get to it later" while looking surprisingly sophisticated.
 
-  ## License 📄
+  ## License 
 
   Do whatever you want with this. It's just organized chaos anyway.
