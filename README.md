@@ -24,7 +24,7 @@
 
   ## Installation 
 
-  ```bash
+```bash
   pip install reportlab
 
   Usage 
@@ -32,13 +32,13 @@
   python main.py        
   python not_yet.py     
 
-    ```
+```
 
-  Why "NOT YET"? 🤷
+  ## Why "NOT YET"? 🤷
 
   Sometimes you need a document that perfectly captures the essence of "I'll      
   get to it later" while looking surprisingly sophisticated.
 
-  License 📄
+  ## License 📄
 
   Do whatever you want with this. It's just organized chaos anyway.
